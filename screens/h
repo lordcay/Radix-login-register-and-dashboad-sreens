@@ -1,0 +1,40 @@
+<View className="mx-5">
+          {/* Action Rows */}
+          <View className="flex-row justify-between space-x-2">
+            <ActionRow
+              title="My Pension"
+              screen="Demo"
+              color="#191970"
+              icon="umbrella"
+              vertical
+            />
+            <ActionRow
+              title="My Investments"
+              screen="Demo"
+              color="#C4B454"
+              icon="card"
+              vertical
+            />
+          </View>
+
+          <ActionRow
+            title="My Stocks"
+            screen="Demo"
+            color="#78CA20"
+            icon="key"
+            vertical
+          />
+          <ActionRow
+            title="My Lifestyle"
+            screen="Demo"
+            color="#FF0033"
+            icon="happy"
+            vertical
+          />
+          {/* Action Rows */}
+          {/* Action Rows */}
+          {/* Action Rows */}
+          {/* Action Rows */}
+          {/* Action Rows */}
+          {/* Action Rows */}
+        </View>

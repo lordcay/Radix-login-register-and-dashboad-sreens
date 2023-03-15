@@ -1,0 +1,46 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\MR CAL\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add --dev tailwindcss
+
+PATH: 
+  C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_171\.bin;C:\xampp\php;"C:\ProgramData\ComposerSetup\bin;C:\xampp\mysql\bin";C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\MR CAL\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\MR CAL\AppData\Local\Programs\Python\Python310\;C:\Users\MR CAL\AppData\Local\Microsoft\WindowsApps;C:\Users\MR CAL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2\bin;;"C:\Users\MR CAL\AppData\Roaming\Composer\vendor\bin;C:\xampp\mysql\bin";C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\bin;C:\Program Files\heroku\bin;C:\Users\MR CAL\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  18.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open 'C:\Users\MR CAL\AppData\Local\Yarn\Cache\v6\npm-@types-yargs-17.0.22-7dd37697691b5f17d020f3c63e7a45971ff71e9a-integrity\node_modules\@types\yargs\.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "radix-pension-managers",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web"
+    },
+    "dependencies": {
+      "expo": "~47.0.12",
+      "expo-status-bar": "~1.4.2",
+      "react": "18.1.0",
+      "react-native": "0.70.5"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.12.9"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
